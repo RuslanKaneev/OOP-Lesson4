@@ -78,6 +78,7 @@ namespace Lesson4
         {
             return NumberBuilding;
 
+
         }
         public void WriteHeightBuilding(uint height)
         {
